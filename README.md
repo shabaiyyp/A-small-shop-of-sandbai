@@ -43,6 +43,8 @@
 
 node koa2 mysql vue2.x vue-cli3.0（js）
 
+1.安装mysql，创建shopdb数据库，创建user用户表；
+
 
 
 
