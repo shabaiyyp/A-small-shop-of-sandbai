@@ -48,7 +48,8 @@ node koa2 mysql vue2.x vue-cli3.0（js）
 
 1.安装mysql，创建shopdb数据库，创建user用户表；
 2.创建koa2 后端项目
-3.vue-cli3.0 创建vue项目，添加vue.config.js;配置代理,对接后端项目（解决跨域）
+3.vue-cli3.0 创建vue项目，添加vue.config.js;配置代理,对接后端项目
+4.简单编写登录注册页和主页，实现登录，注册切换；实现主页和登录注册页的联动（退出，登录，注册按钮事件（vuex的简单使用））
 
 
 
